@@ -1,1 +1,0 @@
-SQL DBMS- More queries

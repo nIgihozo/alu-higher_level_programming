@@ -1,1 +1,0 @@
-Python Network scripts querying
